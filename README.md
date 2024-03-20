@@ -4,6 +4,7 @@ Gesture Jack is hand gesture enabled black jack game.
   + Palm implies stand
   + Fist implies hit
 + It also includes a text to speech feature.
++ While giving input for stand or hit, make sure to press `s` on your keyboard to confirm your input.
 
 ### How to run the game
 **Note:** Before running the app, we need to make sure that we have installed the required requirements on our system
